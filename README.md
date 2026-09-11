@@ -3,8 +3,8 @@
 <tr>
 <td align="center" width="25%"><img src="assets/vois_logo.png" alt="VOIS Logo" height="70"/></td>
 <td align="center" width="25%"><img src="assets/vodafone_idea_foundation_logo.png" alt="Vodafone Idea Foundation Logo" height="70"/></td>
-<td align="center" width="25%"><img src="assets/aicte_logo.png" alt="AICTE Logo" height="70"/></td>
 <td align="center" width="25%"><img src="assets/edunet_foundation_logo.png" alt="Edunet Foundation Logo" height="70"/></td>
+<td align="center" width="25%"><img src="assets/aicte_logo.png" alt="AICTE Logo" height="70"/></td>
 </tr>
 </table>
 
